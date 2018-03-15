@@ -1,0 +1,15 @@
+{
+  "name": "vineyard-ethereum-repl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "repl": "^0.1.3",
+    "vineyard-ethereum": "git+ssh://git@github.com/vineyard-bloom/vineyard-ethereum.git#1.0.0-beta"
+  }
+}
